@@ -7,76 +7,69 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    # Profile information
+    name: Kjersti Rise
+    tagline: Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: kjersti.rise88@gmail.com
+    phone: +47 476 53688
+    website: https://www.ntnu.edu/employees/kjersti.rise
+    linkedin: 
+    github: kjerstirise
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Norwegian
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: Basic
 
     interests:
-      - item: Climbing
+      - item: Travel
         link:
 
-      - item: Snowboarding
+      - item: Board games
         link:
 
-      - item: Cooking
+      - item: LEGO
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    Ever since graduating with a MSc in biotechnology/systems biology in 2015, I have been a PhD student in bioinformatics at NTNU.
+    My scholarship ended early August 2020, and I’m currently working as a researcher at NTNU while finishing my PhD. 
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in bioinformatics
+      university: Norwegian University of Science and Technology
+      time: 2015 - present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Main creator of FunHoP; a program which improves pathway analysis by including more biological information than previous solutions.
+        Involved in gene expression analysis for both my own and other projects.
+    - degree: Exhcange student in systems biology
+      university: University of Iceland
+      time: 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       Cleaning up and re-writing a pipeline for creating models of breast cancer cell lines, written in MatLab
+experiences:
+    - degree: MSc in biotechnology/systems biology
+      university: Norwegian University of Science and Technology
+      time: 2009 - 2015
+      details: |
+       Master thesis on genomic analysis of four novel Psychrocbacter spp. and characterisation of their six putative laccase-like multicopper oxidases.
 experiences:
     - role: Lead Developer
       time: 2015 - Present
