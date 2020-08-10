@@ -97,7 +97,7 @@ projects:
     
     assignments:
       - title: FunHoP
-        link: "#hook"
+        link: "https://github.com/kjerstirise/FunHoP"
         tagline: "Improving pathway analysis on KEGG pathways in Cytoscape. "
 
      
