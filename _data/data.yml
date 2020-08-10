@@ -80,7 +80,7 @@ experiences:
       time: 2013-2015
       company: Natural Science Library, Norwegian University of Scientist and Technology
       details: |
-        Handling the library from mid day to closing time, helping users, finding literature, sorting books etc.
+        Guarding the library from mid day to closing time, helping users, finding literature, sorting books etc.
     - role: Summer Intern
       time: 2014
       company: Buschmann lab, Ecòle Polytechnique, Montreal Canada
@@ -107,12 +107,12 @@ publications:
     
     papers:
       - title: "FunHoP – Enhanced visualization and analysis of functionally homologous proteins in complex metabolic networks"
-        link: "#"
+        link: 
         authors: Rise K, Tessem M-B, Drabløs F, Rye MB.
         conference: Accepted in Genomics, proteoimics, and bioinformatics, 2019
         
       - title: "Integrative metabolic and transcriptomic profiling of prostate cancer tissue containing reactive stroma"
-        link: "#"
+        link: "https://www.nature.com/articles/s41598-018-32549-1"
         authors: Andersen MK, Rise K, Giskeødegård GF, Richardsen E, Bertilsson H, Størkersen Ø, Bathen TF, Rye MB, Tessem M-B.
         conference: Scientific Reports, 2018
 
