@@ -91,6 +91,7 @@ experiences:
       company: Buschmann lab, Ecòle Polytechnique, Montreal Canada
       details: |
         Using TUNEL assay to see the effects of chitosan/siRNA - MDR1 nanoparticles to reduce the effect of increased P-gp protein in multidrug resistant cancer. Including western blots, confocal microscope, and development of lab procedures.
+        
 projects:
     title: Projects
     intro: >
@@ -120,25 +121,27 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    
     papers:
-      - title: The Art of Computer Programming
+      - title: "FunHoP – Enhanced visualization and analysis of functionally homologous proteins in complex metabolic networks"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Rise K, Tessem M-B, Drabløs F, Rye MB.
+        conference: Accepted in Genomics, proteoimics, and bioinformatics, 2019
+        
+      - title: "Integrative metabolic and transcriptomic profiling of prostate cancer tissue containing reactive stroma"
+        link: "#"
+        authors: Andersen MK, Rise K, Giskeødegård GF, Richardsen E, Bertilsson H, Størkersen Ø, Bathen TF, Rye MB, Tessem M-B.
+        conference: Scientific Reports, 2018
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Cholesterol synthesis pathway genes in prostate cancer are transcriptional down regulated when tissue confounding is minimised"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Rye MB, Bertilsson H, Andersen MK, Rise K, Bathen TF, Drabløs F, Tessem M-B.
+        conference: BMC Cancer 2018
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Isolation and genome sequencing of four Arctic marine Psychrobacter strains exhibiting multi copper oxidase activity"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Shojaei Moghadam M, Albersmeier A, Winkler A, Cimmino L, Rise K, Hohmann-Marriott MF, Kalinowski J, Rückert C, Wentzel A, Lale R
+        conference: BMC Genomics, 2016
 
 skills:
     title: Skills &amp; Proficiency
